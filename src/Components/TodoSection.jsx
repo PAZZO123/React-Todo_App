@@ -1,5 +1,6 @@
 import { faTrash } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// todo component where all todo will be declared mnan
 
 export default function TodoSection(props){
     return(<div  className="flex justify-between ">
